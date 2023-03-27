@@ -111,10 +111,10 @@ Download and install the rewrite module
 <br />
 
 <p>
-<img src="https://i.imgur.com/V44A2wn.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IGiP9zO.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install PHP 7.3.8 and create a new directory in C drive C:\PHP. To do this go into the C drive, right click on new, folder, rename it PHP. Then relocate the PHP 7.3.8 file into the C drive by extracting it to the PHP folder
 </p>
 <br />
 
