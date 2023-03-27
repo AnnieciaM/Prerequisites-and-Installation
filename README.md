@@ -88,7 +88,7 @@ This is what the VM should look like once you are complete.
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/J2ezyFA" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J2ezyFA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Right click on start. Click on run. Then type in control. Once your in control click on programs, turn windows features on or off. Scrool down to IIS (Internet Information Services), click and expand it, expand WWS (WorldWide Web Services), expand application development, click on CGI then click ok. This step will install and enable IIS in windows with CGI. 
