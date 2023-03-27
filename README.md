@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Item 1 - First sign up for Microsoft Azure account. Then create a VM (Virtual Machines) in Azure. To do this you will first need to create a Resource Group.
-- Item 2 - Then Create a Virtual Machine in Microsoft Azure using the same resource group.The VM will need to be in Windows 10 using a 2-4 Virtual CPUs and it must be allows to create a new Virtual Network (Vnet).
+- Item 2 - Then Create a Virtual Machine in Microsoft Azure using the same resource group.The VM will need to be in Windows 10 using a 2-4 Virtual CPUs and it must be allowed to create a new Virtual Network (Vnet).
 - Item 3 - Download Remote Desktop application so you can connect to the VM
 - Item 4 - Click on the VM (VM-osticket) to get the IP address. Once you have the IP copy and pase it into the remote desktop application. Then add PC and login with the same username/password that was created when making the VM.
 - Item 5 - 
