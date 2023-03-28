@@ -135,25 +135,65 @@ Download Mysql. Once it is install follow the instructions and create a password
 <br />
                                                                                                  
 <p>
-<img src="https://i.imgur.com/BJ0Twdw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cgILGS4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />  
-                                                                                                 
-<p>
-<img src="https://i.imgur.com/BJ0Twdw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To register PHP manager. First open IIS as an admin, the click PHP manager, register, browse for PHP, then click PHg-cgi. Once you have done that go back to vm-osticket and restart IIS.
 </p>
 <br />  
                                                                                                  
 <p>
-<img src="https://i.imgur.com/BJ0Twdw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com//s8QIzCY.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once Osticket is downloaded. The file upload in www.root has to be renamed as osticket. In order to do this locate the C-drive, inetpub, wwwroot. Drop upload into wwwroot then rename it to osticket. Then go to IIS click sites, default web, osticket then browse *:80 on the left. Doing so will show that osticket is now installed.
+</p>
+<br />  
+                                                                                                 
+<p>
+<img src="https://i.imgur.com/nFg4vQr.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then go to the C-drive locate inetpub,wwwroot, osticket, ost-sampleconfig.php and rename it to ost-config.php. Once that is done we can now assign permissions to everyone by right clicking ost-config.php. Then properties to give everyone permission and disable inheritance
 </p>
 <br />                                                                                                 
+
+  <p>
+<img src="https://i.imgur.com/8S38R11.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Continue setting up Osticket
+</p>
+<br /> 
+                                                                                                 
+ <p>
+<img src="https://i.imgur.com/mZFxwP7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download HeidiSql and setup the admin username, password and email
+</p>
+<br />                      
+                                                                                                 
+ <p>
+<img src="https://i.imgur.com/nDo5PS2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Osticket is now running successfully.
+</p>
+<br />                      
+                                                                                                 
+ <p>
+<img src="https://i.imgur.com/Vr0kcxc.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Login in with the same admin account that was used to setup Osticket.
+</p>
+<br />                      
+                                                                                                 
+ <p>
+<img src="https://i.imgur.com/sliP5tJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This is what Osticket (ticketing system) looks like when it is installed correctly.
+</p>
+<br />                                                                                                                      
